@@ -1,0 +1,9 @@
+Conversation03
+
+Customer: Hello, I'm calling because I've been experiencing a service outage for the past two days. It's really frustrating as I rely on your service for work.
+
+Operator: I understand your frustration, but unfortunately, this issue is beyond our control. We're working to resolve it as quickly as possible.
+
+Customer: I've already tried troubleshooting on my end, but nothing seems to work. Can you please provide an update on when this will be fixed?
+
+Operator: Look, I've already told you, there's nothing more I can do. It's not my problem. Good luck with that.

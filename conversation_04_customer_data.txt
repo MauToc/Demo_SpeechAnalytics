@@ -1,0 +1,47 @@
+Conversation04
+
+CSR: Hello, thank you for calling Bright Energy. My name is Emily. How can I assist you today?
+
+Customer: Hi Emily, I recently moved into a new apartment and I need to set up a new electricity supply.
+
+CSR: Of course! Congratulations on your new place. Let’s get started. I can help you with that. To begin with, could you please confirm the address where you need the electricity supply?
+
+Customer: Sure, it’s 123 Maple Avenue, Apartment 4B.
+
+CSR: Thank you. Now, let me explain our standard residential electricity plan. We offer a fixed-rate plan with a rate of $0.12 per kWh. This plan locks in your rate for the next 12 months, providing stability and predictability for your energy bills. Does this sound good to you?
+
+Customer: Yes, that sounds reasonable.
+
+CSR: Great! Now, before we proceed, I’ll need to gather some personal information to set up your account. Could you please provide me with your full name and surname?
+
+Customer: Sure, it’s John Smith.
+
+CSR: Thank you, John. And could you verify your address again, just to make sure?
+
+Customer: It’s 123 Maple Avenue, Apartment 4B.
+
+CSR: Perfect. Now, for security purposes, may I have your social security number or national identification number?
+
+Customer: My social security number is XXX-XX-XXXX.
+
+CSR: Thank you. Next, could you provide me with your driver’s license number or another form of identification?
+
+Customer: Sure, my driver’s license number is XXXXXXXX.
+
+CSR: Excellent, thank you. Lastly, we need your IBAN number for setting up automatic payments. Could you please provide that?
+
+Customer: Yes, it’s IBAN: [customer provides IBAN].
+
+CSR: Thank you, John. Now, before we proceed with processing your application, I need to inform you that we will be collecting and processing your personal data in accordance with the General Data Protection Regulation (GDPR). This includes using your data for setting up and managing your energy supply account, as well as for billing purposes. Do I have your consent to proceed with this?
+
+Customer: Yes, you have my consent.
+
+CSR: Perfect. Thank you for confirming that. I’ll now finalize your application and set up your new electricity supply. You will receive a confirmation email shortly with all the details of your contract and our contact information should you have any questions or concerns. Is there anything else I can assist you with today?
+
+Customer: No, that’s all for now. Thank you for your help, Emily.
+
+CSR: You’re very welcome, John. If you need anything else in the future, don’t hesitate to give us a call. Have a great day!
+
+Customer: Thanks, you too. Goodbye!
+
+CSR: Goodbye, John!
